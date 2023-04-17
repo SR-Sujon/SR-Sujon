@@ -31,7 +31,7 @@
 
 <br/>
 
-![Saidur's Activity Graph(https://github-readme-activity-graph.cyclic.app/graph?username=SR-Sujon&hide_border=true&bg_color=151515&color=fff&line=6aa84f&point=6aa84f)]
+![[Saidur's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SR-Sujon&hide_border=true&bg_color=151515&color=fff&line=6aa84f&point=6aa84f)]
 
 
 <!--
