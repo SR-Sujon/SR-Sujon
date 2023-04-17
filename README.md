@@ -18,20 +18,20 @@
 <p>
 </div> 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Node.JS-000?style=for-the-badge&logo=node.js&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript&color=151515&logoColor=000&labelColor=6aa84f">
+  <img src="https://img.shields.io/badge/-Node.JS-000?style=for-the-badge&logo=node.js&color=151515&logoColor=000&labelColor=6aa84f">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&color=151515&logoColor=000&labelColor=6aa84f">
+  <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&color=151515&logoColor=000&labelColor=6aa84f">
+  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=151515&logoColor=000&labelColor=6aa84f">
+  <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=6aa84f">
+  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&color=151515&logoColor=000&labelColor=6aa84f">
 </p>
 
 <br/>
 
-[![Saidur's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SR-Sujon&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)]
+[![Saidur's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SR-Sujon&hide_border=true&bg_color=151515&color=fff&line=6aa84f&point=6aa84f)]
 
 
 <!--
