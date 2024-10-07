@@ -7,13 +7,11 @@
 
 <br>
 
-<p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SR-Sujon&show_icons=true&theme=dark&hide_border=true&icon_color=6aa84f" />
-  <img width="49.5%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SR-Sujon&theme=dark&hide_border=true" />
-  </a>
-</p>
 
 ![SR-Sujons's github stats](https://github-readme-stats.vercel.app/api?username=SR-Sujon&show_icons=true&theme=tokyonight) | ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SR-Sujon&theme=tokyonight) |
+
+
+
 
 <br/>
 
