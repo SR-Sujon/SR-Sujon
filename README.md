@@ -10,7 +10,7 @@
 
 | ![SR-Sujons's github stats](https://github-readme-stats.vercel.app/api?username=SR-Sujon&show_icons=true&theme=tokyonight) | ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SR-Sujon&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SR-Sujon&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SR-Sujon&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetang550&layout=compact&theme=tokyonight" alt="top-langs" /> | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SR-Sujon&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 
