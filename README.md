@@ -8,7 +8,8 @@
 <br>
 
 
-| ![SR-Sujons's github stats](https://github-readme-stats.vercel.app/api?username=SR-Sujon&show_icons=true&theme=tokyonight) | |
+| ![SR-Sujons's github stats](https://github-readme-stats.vercel.app/api?username=SR-Sujon&show_icons=true&theme=tokyonight) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SR-Sujon&repo=Chatter-AI&theme=tokyonight)](https://github.com/SR-Sujon/takaramichi) |
+
 | --- | --- |
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetang550&layout=compact&theme=tokyonight" alt="top-langs" /> | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SR-Sujon&repo=Chatter-AI&theme=tokyonight)](https://github.com/SR-Sujon/Chatter-AI) |
 
