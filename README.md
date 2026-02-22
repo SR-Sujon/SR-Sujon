@@ -18,7 +18,7 @@
     </td>
     <td>
       <a href="https://github.com/SR-Sujon/takaramichi">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SR-Sujon&repo=Takaramichi&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SR-Sujon&repo=Takaramichi&theme=Architect">
       </a>
     </td>
   </tr>
@@ -28,7 +28,7 @@
     </td>
     <td>
       <a href="https://github.com/SR-Sujon/Chatter-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SR-Sujon&repo=Chatter-AI&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SR-Sujon&repo=Chatter-AI&theme=Architect">
       </a>
     </td>
   </tr>
