@@ -10,25 +10,24 @@
 
 <br>
 
-<!-- GitHub Stats & Pinned Repos -->
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SR-Sujon&show_icons=true&theme=tokyonight">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SR-Sujon&theme=tokyonight">
     </td>
     <td>
       <a href="https://github.com/SR-Sujon/takaramichi">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SR-Sujon&repo=Takaramichi&theme=Architect">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SR-Sujon&repo=Takaramichi&theme=tokyonight">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SR-Sujon&layout=compact&theme=tokyonight" alt="top-langs">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SR-Sujon&theme=tokyonight">
     </td>
     <td>
       <a href="https://github.com/SR-Sujon/Chatter-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SR-Sujon&repo=Chatter-AI&theme=Architect">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SR-Sujon&repo=Chatter-AI&theme=tokyonight">
       </a>
     </td>
   </tr>
